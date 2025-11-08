@@ -12,4 +12,4 @@ A clean and minimal form designed using **Tailwind CSS**. This form is fully res
 
 ## Demo
 
-You can view the live demo here: [Live Demo Link] 
+You can view the live demo here: [https://joyboy-koder.github.io/Tailwindcss-Minimal-form2/] 
